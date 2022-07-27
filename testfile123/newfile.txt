@@ -2,4 +2,6 @@ One new file has been added
 #! /bin/sh
 mkdir test
 cd test
+
+rm -rf Test
 echo "new file is created"
